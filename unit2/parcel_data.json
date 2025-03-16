@@ -1,0 +1,16 @@
+{
+    "2": {
+        "location": "Kigali",
+        "type": "building",
+        "size": "400",
+        "master_plan": "resid",
+        "price": "5000"
+    },
+    "3": {
+        "location": "Huye",
+        "type": "Bulding",
+        "size": "600",
+        "master_plan": "Residential",
+        "price": "400000"
+    }
+}
